@@ -3,7 +3,7 @@ import java.util.Map;
 
 public class Country {
 
-    private final int ROBOTS_NUMBER = 10;
+    private final int ROBOTS_NUMBER = 20;
     private static volatile boolean stop;
     private final String countryName;
     private int robotsNumber;
